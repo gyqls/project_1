@@ -10,7 +10,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(842, 1191); // A4 세로 비율
+  createCanvas(595, 842); // A4 비율 
   background(0);
 
   for (let i = 0; i < 1000; i++) {
